@@ -6,4 +6,4 @@ In order to understand this systematically, we aim to use topic modeling to disc
 See the jupyter notebook for the code.
 
 
-[Link to the slides](https://docs.google.com/presentation/d/1AHc1ZFFM6dDsZrV9p5GZmLHYUcog2VZzFExEeiVRiZE/edit?usp=sharing)
+[Link to the slides](https://docs.google.com/presentation/d/1AHc1ZFFM6dDsZrV9p5GZmLHYUcog2VZzFExEeiVRiZE/edit?usp=drivesdk)
